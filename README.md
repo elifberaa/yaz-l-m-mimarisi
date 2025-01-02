@@ -1,2 +1,2 @@
-# yaz-l-m-mimarisi
-Codes I have learned during class
+# yazilim-mimarisi
+Java codes I learned during class.
